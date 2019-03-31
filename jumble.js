@@ -57,7 +57,7 @@ class TextScramble {
   }
 }
 
-const phrases = ["HI", "I am", "Silent Lad"];
+const phrases = ["Hi!", "I am", "Umang Jain"];
 
 const el = document.querySelector(".text");
 const fx = new TextScramble(el);
