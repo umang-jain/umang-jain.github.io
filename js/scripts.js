@@ -21,7 +21,7 @@ window.onload = setTimeout(function() {
     'A 3rd Year Computer Science Student at USICT, GGSIPU',
     'And a Full Stack Web Developer',
     'I\'m currently looking for internship opportunities in summer vacations.<br> You can contact me at <a href="mailto:umang.usict.042164@ipu.ac.in">umang.usict.042164@ipu.ac.in</a>',
-    '<a target="_blank" href="https://www.linkedin.com/in/umang-jain-a9b161179/">LinkedIn</a><br><a target="_blank" href="https://github.com/umang-jain">Github</a><br>',
+    '<a target="_blank" href="https://www.linkedin.com/in/umang-jain-a9b161179/">LinkedIn Profile</a> ➡️ <br><a target="_blank" href="https://github.com/umang-jain">Github Profile</a> ➡️ <br>',
     'In case you are a Recruiter ➡️ <a target="_blank" href="UmangResume.pdf">Résumé</a>📝 ',
     getCurrentTime(),
     '👀 umang-jain.',
