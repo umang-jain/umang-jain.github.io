@@ -21,7 +21,7 @@ window.onload = setTimeout(function() {
     'A 3rd Year Computer Science Student at USICT, GGSIPU',
     'And a Full Stack Web Developer',
     'I\'m currently looking for internship opportunities in summer vacations.<br> You can contact me at <a href="mailto:umang.usict.042164@ipu.ac.in">umang.usict.042164@ipu.ac.in</a>',
-    '<a target="_blank" href="https://linkedin.com/in/shubhamg931">linkedin.com/in/shubhamg931</a><br><a target="_blank" href="https://github.com/shubhamg931">github.com/shubhamg931</a><br><a target="_blank" href="https://www.stopstalk.com/user/profile/shubhamg931">stopstalk.com/user/profile/shubhamg931</a><br><a target="_blank" href="https://twitter.com/shubhamg931">twitter.com/shubhamg931</a>',
+    '<a target="_blank" href="https://www.linkedin.com/in/umang-jain-a9b161179/">LinkedIn</a><br><a target="_blank" href="https://github.com/umang-jain">Github</a><br>',
     'In case you are a Recruiter ➡️ <a target="_blank" href="UmangResume.pdf">Résumé</a>📝 ',
     getCurrentTime(),
     '👀 umang-jain.',
