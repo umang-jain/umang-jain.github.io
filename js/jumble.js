@@ -69,8 +69,6 @@ const next = () => {
       setTimeout(next, 800);
     });
     cnt++;
-    console.log(cnt);
-
     counter = (counter + 1) % phrases.length;
   }
 };
