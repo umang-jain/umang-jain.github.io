@@ -167,4 +167,4 @@ window.onload = setTimeout(function() {
 
   sendMessages();
 
-},5000);
+},6000);
